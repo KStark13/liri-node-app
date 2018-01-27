@@ -31,7 +31,7 @@ switch(command){
 		if(x) {
 			spotifySong(x);
 		} else {
-			spotifySong("The Sign");
+			spotifySong("Lazy Eye");
 		}
 	break;
 
@@ -93,7 +93,7 @@ function spotifySong(song) {
 
 
 //movie-this: will output [title, year relased, IMDb rating, Rotten Tomatoes rating, 
-//contry it was produced, language, plot, actors];
+//country it was produced, language, plot, actors];
 //If user doesnt type in movie, will default to "Mr. Nobody"
 function omdbData(movie){
 		var omdbURL = 'http://www.omdbapi.com/?t=' + movie + '&plot=short&tomatoes=true&apikey=trilogy';
