@@ -55,6 +55,9 @@ Created during Week 12 of SMU Coding Bootcamp. The challenge was to use Node JS 
 
   * Takes the text from random.txt and runs the song through spotify-this-song command
 
+## Demo
+ <video src="demo.mp4" width="320" height="200" controls preload></video>
+
 ## Tech used
 - Node.js
 - Twitter NPM Package - https://www.npmjs.com/package/twitter
