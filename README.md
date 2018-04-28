@@ -19,10 +19,13 @@ Created during Week 12 of SMU Coding Bootcamp. The challenge was to use Node JS 
 - Run command 'node liri.js' or one of the commands below.
 
 ## What Each Command Does
-
+![liri1](https://user-images.githubusercontent.com/29615183/39401420-8d5629a4-4b0a-11e8-9b33-cfe127ea61ef.PNG)
 1. `node liri.js my-tweets`
 
   * Displays my last 20 tweets and when they were created in terminal/bash window.
+
+![liri2](https://user-images.githubusercontent.com/29615183/39401424-a95c6974-4b0a-11e8-8c4a-b1ab25ba6d79.PNG)
+
 
 2. `node liri.js spotify-this-song <song name>`
 
@@ -34,6 +37,8 @@ Created during Week 12 of SMU Coding Bootcamp. The challenge was to use Node JS 
 
   * Or if no song is passed through, it will default to
     *"Lazy Eye" by Silversun Pickups
+    
+![liri3](https://user-images.githubusercontent.com/29615183/39401425-aec45b9c-4b0a-11e8-8323-baa33d5a05c3.PNG)
 
 3. `node liri.js movie-this <movie name>`
 
@@ -50,6 +55,8 @@ Created during Week 12 of SMU Coding Bootcamp. The challenge was to use Node JS 
     * Rotten Tomatoes URL.
 
   * Or if no movie is passed through, it will default to "Mr. Nobody"
+
+![liri5](https://user-images.githubusercontent.com/29615183/39401432-cb0d61cc-4b0a-11e8-860c-53bb27e5c366.png)
 
 4. `node liri.js do-what-it-says`
 
